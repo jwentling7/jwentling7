@@ -1,4 +1,4 @@
-<img src="jw-sig.png" alt="Jessica Wentling Name, Title, and Logo" width="200" height="200">
+<img src="jw-sig.png" alt="Jessica Wentling Name, Title, and Logo" width="541" height="160">
 Hi, I'm Jessica! I love 👩‍💻 programming, 🧙‍♀️ gaming, and 🌷 gardening.<br/>
 Right now, I'm into Web Development and learning the ins and outs of WordPress.
 <br/><br/>
