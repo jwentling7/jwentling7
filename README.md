@@ -7,7 +7,11 @@ Follow me on social media!<br/>
 <a href="https://www.facebook.com/jwentling7">Facebook</a><br/>
 <a href="https://www.instagram.com/jwentling7/">Instagram</a><br/>
 <a href="https://www.linkedin.com/in/jessica-wentling/">LinkedIn</a><br/>
- <a href="https://twitter.com/jwentling7">Twitter</a>
+<a href="https://twitter.com/jwentling7">Twitter</a>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 jwentling7/jwentling7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
