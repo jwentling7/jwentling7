@@ -11,6 +11,9 @@ Follow me on social media!<br/>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript30 – Day 03](https://jessicawentling.com/programming/javascript30/javascript30-day-03/)
+- [JavaScript30 – Day 02](https://jessicawentling.com/programming/javascript30/javascript30-day-02/)
+- [JavaScript30 – Day 01](https://jessicawentling.com/programming/javascript30/javascript30-day-01/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
