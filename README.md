@@ -1,20 +1,27 @@
-<img src="jw-sig.png" alt="Jessica Wentling Name, Title, and Logo" width="541" height="160">
-Hi, I'm Jessica! I love 👩‍💻 programming, 🧙‍♀️ gaming, and 🌷 gardening.<br/>
-Right now, I'm into Web Development and learning the ins and outs of WordPress.
-<br/><br/>
-Check out my personal website: https://jessicawentling.com<br/><br/>
-Follow me on social media!<br/>
-<a href="https://www.facebook.com/jwentling7">Facebook</a><br/>
-<a href="https://www.instagram.com/jwentling7/">Instagram</a><br/>
-<a href="https://www.linkedin.com/in/jessica-wentling/">LinkedIn</a><br/>
-<a href="https://twitter.com/jwentling7">Twitter</a>
+[<img src="jw-sig.png" alt="Jessica Wentling Name, Title, and Logo" width="541"/>][website]
 
-# Blog posts
+Hi, I'm Jessica! I love 👩‍💻 programming, 🧙‍♀️ gaming, and 🌷 gardening.
+Right now, I'm into Web Development and learning the ins and outs of WordPress.
+
+Check out my personal website: [jessicawentling.com][website]
+
+## Follow me on social media!
+[<img src="facebook_icon.png" alt="Facebook" width="48" align="left"/>](https://www.facebook.com/jwentling7)
+[<img src="instagram_icon.png" alt="Instagram" width="48" align="left"/>](https://www.instagram.com/jwentling7/)
+[<img src="linkedin_icon.png" alt="LinkedIn" width="48" align="left"/>](https://www.linkedin.com/in/jessica-wentling/)
+[<img src="twittwe_icon.png" alt="Twitter" width="48" align="left"/>](https://twitter.com/jwentling7)
+
+<br />
+<br />
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript30 – Day 03](https://jessicawentling.com/programming/javascript30/javascript30-day-03/)
 - [JavaScript30 – Day 02](https://jessicawentling.com/programming/javascript30/javascript30-day-02/)
 - [JavaScript30 – Day 01](https://jessicawentling.com/programming/javascript30/javascript30-day-01/)
 <!-- BLOG-POST-LIST:END -->
+
+[website]: https://jessicawentling.com
 
 <!---
 jwentling7/jwentling7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
