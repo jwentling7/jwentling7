@@ -9,7 +9,7 @@ Check out my personal website: [jessicawentling.com][website]
 [<img src="facebook_icon.png" alt="Facebook" width="48" align="left"/>](https://www.facebook.com/jwentling7)
 [<img src="instagram_icon.png" alt="Instagram" width="48" align="left"/>](https://www.instagram.com/jwentling7/)
 [<img src="linkedin_icon.png" alt="LinkedIn" width="48" align="left"/>](https://www.linkedin.com/in/jessica-wentling/)
-[<img src="twittwe_icon.png" alt="Twitter" width="48" align="left"/>](https://twitter.com/jwentling7)
+[<img src="twitter_icon.png" alt="Twitter" width="48" align="left"/>](https://twitter.com/jwentling7)
 
 <br />
 <br />
