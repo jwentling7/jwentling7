@@ -1,7 +1,7 @@
 [<img src="jw-sig.png" alt="Jessica Wentling Name, Title, and Logo" width="541"/>][website]
 
 Hi, I'm Jessica! I love 👩‍💻 programming, 🧙‍♀️ gaming, and 🌷 gardening.
-Right now, I'm into Web Development and learning the ins and outs of WordPress.
+Right now, I'm into learning all about building things with React.
 
 Check out my personal website: [jessicawentling.com][website]
 
