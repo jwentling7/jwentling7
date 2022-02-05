@@ -16,6 +16,7 @@ Check out my personal website: [jessicawentling.com][website]
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript30 – Day 05](https://jessicawentling.com/programming/javascript30/javascript30-day-05/)
 - [JavaScript30 – Day 04](https://jessicawentling.com/programming/javascript30/javascript30-day-04/)
 - [JavaScript30 – Day 03](https://jessicawentling.com/programming/javascript30/javascript30-day-03/)
 - [JavaScript30 – Day 02](https://jessicawentling.com/programming/javascript30/javascript30-day-02/)
